@@ -1,5 +1,3 @@
-# Logbook
-
 
 # Logbook
 
